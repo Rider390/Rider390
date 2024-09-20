@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rider390
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rejolin 
+- 👀 I’m interested in Developing AI Tools
+- 🌱 I’m currently learning My UG
+- 💞️ I’m looking to collaborate on Project Developers
+- 📫 How to reach me Email : rejolinsolomon366@gmail.com
 
 <!---
 Rider390/Rider390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
